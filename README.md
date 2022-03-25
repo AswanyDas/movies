@@ -18,9 +18,13 @@
 
 
 
-# Getting Started with Create React App
+# Getting Started with Movies APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+clone repository
+
+run following command
+
+npm install
 
 ## Available Scripts
 
